@@ -1,0 +1,38 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+header{
+    background-color: #B6FFFA;
+}
+
+main {
+    background-color: #98E4FF;
+}
+
+footer {
+    background-color: #80B3FF;
+}
+
+h2{
+    color: rgb(25, 0, 255);
+    font-size: 40px;
+}
+p {
+    color: rgb(171, 130, 238);
+    font-size: 26px;
+}
+
+h6 {
+    color: rgb(98, 0, 255);
+    font-size: 22px;
+}
+
+.foto{
+    width: 350px;
+}
+
+.redes{
+    width: 40px;
+}
