@@ -1,0 +1,74 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+header{
+    background-color: #a5f8f3;
+}
+
+main {
+    background-color: #98E4FF;
+}
+
+footer {
+    background-color: #80B3FF;
+}
+
+h2{
+    color: rgb(105, 89, 245);
+    font-size: 50px;
+    margin-left: 48%;
+    
+}
+
+p {
+    color: rgb(171, 130, 238);
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h6 {
+    color: rgb(98, 0, 255);
+    font-size: 22px;
+}
+
+.foto1{
+    width: 400px;
+    height: 480px;
+    position: relative;
+    top: 40px;
+    left: 900px;
+}
+
+.foto2{
+    width: 400px;
+    height: 480px;
+    position: absolute;
+    top: 1460px;
+    left: 400px;
+
+}
+
+.foto3{
+    width: 400px;
+    height: 480px;
+    position: relative;
+    left: 1150px;
+    bottom: 10px;
+}
+
+.texto{
+    margin: 4% 22%;
+    width: 700px;
+    height: 700px;
+    position: relative;
+    left: 300px;
+    text-align: justify;
+
+}
+
+.redes{
+    width: 50px;
+
+}
